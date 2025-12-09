@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-#dusan matar
+#dusan matar for tor connection
 import subprocess
 import random
 import os
